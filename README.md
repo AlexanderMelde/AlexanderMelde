@@ -5,7 +5,7 @@ For example, I have already developed a system for the [recognition of human act
 
 The most experience I have had so far is in the field of web development. However, through my studies and numerous hobby projects I also know a lot about application development (PC & Android) and other new technology trends.
 
-Currently I am deepening my knowledge in the field of Artificial Intelligence in a master's degree program in Karlsruhe, Germany. 
+Currently I am deepening my knowledge in the field of Artificial Intelligence as academic staff in Karlsruhe, Germany. 
 
 Most recently, i published the [SPHAR dataset](https://github.com/AlexanderMelde/SPHAR-Dataset) (🌟) with over 7000 videos that you can use for action recognition. Just a few months ago, i also published the [YAPF GitHub Action](https://github.com/AlexanderMelde/yapf-action) (🌟), which can be used for checking python code formatting.
 
