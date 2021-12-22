@@ -11,5 +11,9 @@ Most recently, i published the [SPHAR dataset](https://github.com/AlexanderMelde
 
 You can view my full portfolio and my bio at [melde.net](https://melde.net) (🇩🇪) or follow my [LinkedIn](https://www.linkedin.com/in/alexandermelde/) (🌟) profile for updates on hackathons and job activities.
 
-[![A](https://github-readme-stats-final.vercel.app/api/top-langs/?username=AlexanderMelde&langs_count=8&layout=compact&disable_animations=false&theme=swift&line_height=24&hide_border=true)](#)
-[![A](https://github-readme-stats-final.vercel.app/api?username=AlexanderMelde&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&line_height=24&custom_title=GitHub%20Stats&hide_border=true)](#)
+<center>
+    <a align="center" href="#">
+        <img align="center" style="width: 41%;" src="https://github-readme-stats-final.vercel.app/api/top-langs/?username=AlexanderMelde&langs_count=8&layout=compact&disable_animations=false&theme=swift&line_height=24&hide_border=true">
+        <img align="center" style="width: 58%;" src="https://github-readme-stats-final.vercel.app/api?username=AlexanderMelde&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&line_height=24&custom_title=GitHub%20Stats&hide_border=true">
+    </a>
+</center>
