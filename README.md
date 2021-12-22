@@ -10,3 +10,7 @@ Currently I am deepening my knowledge in the field of Artificial Intelligence as
 Most recently, i published the [SPHAR dataset](https://github.com/AlexanderMelde/SPHAR-Dataset) (🌟) with over 7000 videos that you can use for action recognition. Just a few months ago, i also published the [YAPF GitHub Action](https://github.com/AlexanderMelde/yapf-action) (🌟), which can be used for checking python code formatting.
 
 You can view my full portfolio and my bio at [melde.net](https://melde.net) (🇩🇪) or follow my [LinkedIn](https://www.linkedin.com/in/alexandermelde/) (🌟) profile for updates on hackathons and job activities.
+
+[![A](https://github-readme-stats-final.vercel.app/api/top-langs/?username=AlexanderMelde&langs_count=8&layout=compact&disable_animations=false&theme=swift&line_height=24&hide_border=true)](#)
+
+[![A](https://github-readme-stats-final.vercel.app/api?username=AlexanderMelde&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&line_height=24&custom_title=GitHub%20Stats&hide_border=true)](#)
