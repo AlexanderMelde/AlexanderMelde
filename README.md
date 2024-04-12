@@ -1,13 +1,16 @@
 ### Hello there 👋
 
-I love to try out new technologies and explore practical applications.
-For example, I have already developed a system for the [recognition of human actions](https://github.com/AlexanderMelde/Handlungserkennung) (🇩🇪) in webcam videos and worked on a [traffic sign recognition](https://github.com/AlexanderMelde/Verkehrszeichenerkennung) (🇩🇪) based on machine learning.
+I love to try out new technologies and explore practical applications. Here you can find my open source web and mobile apps, prototypes for my research in the field of AI and computer vision and some handy tools for everyday life.
 
-The most experience I have had so far is in the field of web development. However, through my studies and numerous hobby projects I also know a lot about application development (PC & Android) and other new technology trends.
-
-Currently I am deepening my knowledge in the field of Artificial Intelligence as academic staff in Karlsruhe, Germany. 
-
-Most recently, i published the [SPHAR dataset](https://github.com/AlexanderMelde/SPHAR-Dataset) (🌟) with over 7000 videos that you can use for action recognition. Just a few months ago, i also published the [YAPF GitHub Action](https://github.com/AlexanderMelde/yapf-action) (🌟), which can be used for checking python code formatting.
+Some notable examples include:
+- a system for the [recognition of human actions](https://github.com/AlexanderMelde/Handlungserkennung) (🇩🇪) in webcam videos
+- a [traffic sign recognition](https://github.com/AlexanderMelde/Verkehrszeichenerkennung) (🇩🇪) based on machine learning.
+- the [SPHAR dataset](https://github.com/AlexanderMelde/SPHAR-Dataset) (🌟) with over 7000 videos that you can use for action recognition
+- the [downloader for heise magazines](https://github.com/AlexanderMelde/dl_for_heise) (🌟), which allows to batch-download popular German computer magazines
+- a [click dummy for the gym-on-demand startup FORTIS](https://github.com/AlexanderMelde/fortis) (🌟), visualizing their upcoming apps capabilities
+- the [YAPF GitHub Action](https://github.com/AlexanderMelde/yapf-action) (🌟), which can be used for checking python code formatting.
+- a [search engine for pretained ML models](https://github.com/Q-AMeLiA/searchengine) (🌟) that can be used for image recognition and fine tuning
+- student projects about [Voice Cloning](https://github.com/AlexanderMelde/VoiceCloning) (🇩🇪), [3D GANs](https://github.com/AlexanderMelde/3D-GAN) (🇩🇪) and an [AR Sudoku Solver](https://github.com/AlexanderMelde/AR-Sudoku) (🇩🇪).
 
 You can view my full portfolio and my bio at [melde.net](https://melde.net) (🇩🇪) or follow my [LinkedIn](https://www.linkedin.com/in/alexandermelde/) (🌟) profile for updates on hackathons and job activities.
 
