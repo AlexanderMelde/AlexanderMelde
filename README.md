@@ -5,11 +5,11 @@ I love to try out new technologies and explore practical applications. Here you 
 Some notable examples include:
 - a system for the [recognition of human actions](https://github.com/AlexanderMelde/Handlungserkennung) (🇩🇪) in webcam videos
 - a [traffic sign recognition](https://github.com/AlexanderMelde/Verkehrszeichenerkennung) (🇩🇪) based on machine learning.
-- the [SPHAR dataset](https://github.com/AlexanderMelde/SPHAR-Dataset) (🌟) with over 7000 videos that you can use for action recognition
-- the [downloader for heise magazines](https://github.com/AlexanderMelde/dl_for_heise) (🌟), which allows to batch-download popular German computer magazines
-- a [click dummy for the gym-on-demand startup FORTIS](https://github.com/AlexanderMelde/fortis) (🌟), visualizing their upcoming apps capabilities
-- the [YAPF GitHub Action](https://github.com/AlexanderMelde/yapf-action) (🌟), which can be used for checking python code formatting.
-- a [search engine for pretained ML models](https://github.com/Q-AMeLiA/searchengine) (🌟) that can be used for image recognition and fine tuning
+- the [SPHAR dataset](https://github.com/AlexanderMelde/SPHAR-Dataset) (🌟) with over 7000 videos for action recognition
+- the [batch-downloader for heise](https://github.com/AlexanderMelde/dl_for_heise) (🌟), a popular German computer magazines brand
+- a [clickdummy for the gym rental startup Fortis Studios](https://github.com/AlexanderMelde/fortis) (🌟) that visualizes their upcoming app
+- the [YAPF GitHub Action](https://github.com/AlexanderMelde/yapf-action) (🌟) to check python code formatting.
+- a [search engine for pretained ML models](https://github.com/Q-AMeLiA/searchengine) (🌟) for image recognition and fine tuning
 - student projects about [Voice Cloning](https://github.com/AlexanderMelde/VoiceCloning) (🇩🇪), [3D GANs](https://github.com/AlexanderMelde/3D-GAN) (🇩🇪) and an [AR Sudoku Solver](https://github.com/AlexanderMelde/AR-Sudoku) (🇩🇪).
 
 You can view my full portfolio and my bio at [melde.net](https://melde.net) (🇩🇪) or follow my [LinkedIn](https://www.linkedin.com/in/alexandermelde/) (🌟) profile for updates on hackathons and job activities.
