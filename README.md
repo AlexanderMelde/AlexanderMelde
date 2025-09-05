@@ -20,5 +20,6 @@ You can view my full portfolio and my bio at [melde.net](https://melde.net) (ðŸ‡
         <img align="center" style="width: 58%;" src="https://github-readme-stats.vercel.app/api?username=AlexanderMelde&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&line_height=24&custom_title=GitHub%20Stats&hide_border=true">
     </a>
 </center>
+<br/><br/>
 
 Current and past affiliations include [@weisenburger](https://github.com/weisenburger), [@CodeforKarlsruhe](https://github.com/CodeforKarlsruhe) and [@Intelligent-Systems-Research-Group](https://github.com/Intelligent-Systems-Research-Group).
